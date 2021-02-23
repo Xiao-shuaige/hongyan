@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c09820c4-ecb5-43eb-8f7b-bed9cd12f445" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/sdk/go1.15.5" />
+  <component name="ProjectId" id="1onWMmBHUPbEbj5lZJoFc75Aeme" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build zhihu" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="zhihu" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="zhihu" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build zhihu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <proxy>https://goproxy.io</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="25" width="1792" height="1010" key="#Inspections" timestamp="1613927161322">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="0" y="25" width="1792" height="1010" key="#Inspections/0.0.1792.1120@0.0.1792.1120" timestamp="1613927161322" />
+    <state width="1750" height="308" key="GridCell.Tab.0.bottom" timestamp="1613961431978">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="308" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1613961431978" />
+    <state width="1750" height="308" key="GridCell.Tab.0.center" timestamp="1613961431976">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="308" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1613961431976" />
+    <state width="1750" height="308" key="GridCell.Tab.0.left" timestamp="1613961431975">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="308" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1613961431975" />
+    <state width="1750" height="308" key="GridCell.Tab.0.right" timestamp="1613961431977">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="308" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1613961431977" />
+    <state x="0" y="25" width="1792" height="1010" key="SettingsEditor" timestamp="1613960279234">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="0" y="25" width="1792" height="1010" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1613960279234" />
+  </component>
+</project>
