@@ -12,7 +12,7 @@ func main()  {
 		return
 	}
 	defer fi.Close()
-	fi.WriteString("cannot use \"don't communicate by sharing memory share memory by communicating\" ")
+	fi.WriteString("don't communicate by sharing memory share memory by communicating")
 	fp,err:=os.Open("c:/hello.world/proverb.txt")
 	if err!=nil{
 		fmt.Println("文件打开失败")
@@ -26,4 +26,4 @@ func main()  {
 		}
 	}
 	defer fp.Close()
-	}
+}
